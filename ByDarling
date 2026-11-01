@@ -1,0 +1,3 @@
+-- hi skiddy
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/e044192fac303b78c33b3296bbbc7c4a.lua"))()
